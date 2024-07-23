@@ -1,0 +1,10 @@
+# data files
+*.csv
+*.tsv
+
+# log files
+model_logs*/
+
+# models
+*.h5
+model_*/
