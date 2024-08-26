@@ -8,3 +8,6 @@ model_logs*/
 # models
 *.h5
 model_*/
+
+# PubMed
+PubMed_*/
